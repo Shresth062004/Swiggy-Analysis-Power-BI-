@@ -16,6 +16,7 @@ This project is a comprehensive analysis of Swiggy restaurant data using Power B
 - **Interactive Filters** for City and Area
 
 ## 📁 Image -- 
+![Swiggy Dashboard](Screenshot%202025-06-11%20165037.png)
 
 
 
